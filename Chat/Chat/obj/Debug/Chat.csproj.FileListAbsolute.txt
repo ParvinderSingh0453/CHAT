@@ -1,0 +1,10 @@
+D:\Parvinder\C#\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Parvinder\C#\Chat\Chat\bin\Debug\Chat.exe
+D:\Parvinder\C#\Chat\Chat\bin\Debug\Chat.pdb
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.Form1.resources
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.exe
+D:\Parvinder\C#\Chat\Chat\obj\Debug\Chat.pdb
